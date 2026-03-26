@@ -1,5 +1,7 @@
 # tsundoku
 
+![preview](/img/tsundoku.png)
+
 `tsundoku` is a terminal-first read-it-later tool for engineers, operators, and agent-heavy workflows. It stores links locally, fetches and summarizes them, lets you stage integration ideas, and can talk to a user-configured HTTP JSON backend for analysis and task creation.
 
 This 1.0 release is intentionally public and machine-neutral. It does not assume a specific host layout, credential file, install prefix, or backend product. Users configure their own system context and agent/backend profile from the built-in settings menu.
