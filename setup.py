@@ -17,10 +17,10 @@ setup(
     long_description_content_type="text/markdown",
     author="cassette, aka maps",
     author_email="hello@cassette.help",
-    url="https://github.com/mistermaps/tsundoku",
+    url="https://github.com/nosleepcassette/tsundoku",
     project_urls={
         "Homepage": "https://cassette.help",
-        "Repository": "https://github.com/mistermaps/tsundoku",
+        "Repository": "https://github.com/nosleepcassette/tsundoku",
     },
     license="MIT",
     package_dir={"": "src"},
